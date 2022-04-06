@@ -130,3 +130,5 @@ dmypy.json
 
 # mine
 TI_1_Practica2.ipynb
+.vscode/
+metrics/
